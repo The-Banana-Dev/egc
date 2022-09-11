@@ -1,0 +1,2 @@
+# ExponentialGrowthCalculator
+Exponential Growth Calculator
